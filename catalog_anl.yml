@@ -1,0 +1,494 @@
+sources:
+
+  '2024100212':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100212/GFCTCPT20241002122024100212F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100212
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100212
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100212
+
+
+  '2024100218':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100218/GFCTCPT20241002182024100218F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100218
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100218
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100218
+
+
+  '2024100300':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100300/GFCTCPT20241003002024100300F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100300
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100300
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100300
+
+
+  '2024100306':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100306/GFCTCPT20241003062024100306F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100306
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100306
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100306
+
+
+  '2024100312':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100312/GFCTCPT20241003122024100312F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100312
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100312
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100312
+
+
+  '2024100318':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100318/GFCTCPT20241003182024100318F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100318
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100318
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100318
+
+
+  '2024100400':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100400/GFCTCPT20241004002024100400F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100400
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100400
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100400
+
+
+  '2024100406':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100406/GFCTCPT20241004062024100406F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100406
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100406
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100406
+
+
+  '2024100412':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100412/GFCTCPT20241004122024100412F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100412
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100412
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100412
+
+
+  '2024100418':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100418/GFCTCPT20241004182024100418F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100418
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100418
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100418
+
+
+  '2024100500':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100500/GFCTCPT20241005002024100500F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100500
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100500
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100500
+
+
+  '2024100506':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100506/GFCTCPT20241005062024100506F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100506
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100506
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100506
+
+
+  '2024100512':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100512/GFCTCPT20241005122024100512F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100512
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100512
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100512
+
+
+  '2024100518':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100518/GFCTCPT20241005182024100518F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100518
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100518
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100518
+
+
+  '2024100600':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100600/GFCTCPT20241006002024100600F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100600
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100600
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100600
+
+
+  '2024100606':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100606/GFCTCPT20241006062024100606F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100606
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100606
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100606
+
+
+  '2024100612':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100612/GFCTCPT20241006122024100612F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100612
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100612
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100612
+
+
+  '2024100618':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100618/GFCTCPT20241006182024100618F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100618
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100618
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100618
+
+
+  '2024100700':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100700/GFCTCPT20241007002024100700F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100700
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100700
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100700
+
+
+  '2024100706':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100706/GFCTCPT20241007062024100706F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100706
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100706
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100706
+
+
+  '2024100712':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100712/GFCTCPT20241007122024100712F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100712
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100712
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100712
+
+
+  '2024100718':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100718/GFCTCPT20241007182024100718F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100718
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100718
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100718
+
+
+  '2024100800':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100800/GFCTCPT20241008002024100800F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100800
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100800
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100800
+
+
+  '2024100806':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100806/GFCTCPT20241008062024100806F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100806
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100806
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100806
+
+
+  '2024100812':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100812/GFCTCPT20241008122024100812F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100812
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100812
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100812
+
+
+  '2024100818':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100818/GFCTCPT20241008182024100818F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100818
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100818
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100818
+
+
+  '2024100900':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100900/GFCTCPT20241009002024100900F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100900
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100900
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100900
+
+
+  '2024100906':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100906/GFCTCPT20241009062024100906F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100906
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100906
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100906
+
+
+  '2024100912':
+    args:
+      consolidated: true
+      urlpath: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100912/GFCTCPT20241009122024100912F.icn.TQ0299L064.zarr
+    description: SMNA Analysis for 2024100912
+    driver: intake_xarray.xzarr.ZarrSource
+    metadata: 
+      catalog_dir: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100912
+      tags:
+        - atmosphere
+        - analysis
+        - data_assimilation
+        - smna
+        - field
+      url: https://dataserver.cptec.inpe.br/dataserver_dimnt/das/carlos.bastarz/SMNAMonitoringApp/anls/2024100912
+
